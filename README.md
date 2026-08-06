@@ -15,7 +15,7 @@ Mi nombre es Joan y soy desarrollador frontend en progreso, construyendo proyect
 <p align="left">
 ✨ Creando bugs desde 2023 <br>
 📚 Actualmente aprendiendo React más a fondo y mejorando la arquitectura de mis proyectos. También estoy aprendiendo algo de WordPress <br>
-🚀 Construyendo <a href="https://totalgrind.joan-coll.com" target="_blank">Total Grind</a> (En desarrollo - Código privado) y FichaMe <br>🎯 Objetivos: convertirme en un desarrollador frontend sólido, capaz de diseñar aplicaciones limpias y escalables <br>
+🚀 Construyendo <a href="https://totalgrind.joan-coll.com" target="_blank">Total Grind</a> (En evolución) entre otros proyectos <br>🎯 Objetivos: convertirme en un desarrollador frontend sólido, capaz de diseñar aplicaciones limpias y escalables <br>
 🏋️ Dato curioso: practico powerlifting y he creado una herramienta para este
 </p>
 
