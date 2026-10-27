@@ -10,7 +10,7 @@
 
 - 💼 **Actualmente:** Desarrollador en **FlowProp**, creando soluciones web, software y automatizaciones.
 - 🛠️ **Proyectos Personales:**
-  - <a href="https://totalgrind.joan-coll.com" target="_blank"><b>Total Grind</b></a>: Plataforma web para la planificación de bloques de entrenamiento de Powerlifting.
+  - <a href="https://totalgrind.es" target="_blank"><b>Total Grind</b></a>: Plataforma web para la planificación de bloques de entrenamiento de Powerlifting.
   - **App de Finanzas Personales**: Herramienta a medida para la gestión de presupuesto y control financiero.
   - **IDE Online Mobile-First**: Entorno de desarrollo ligero diseñado para programar cómodamente desde dispositivos móviles.
   - *Entre otros proyectos e ideas en constante desarrollo.*
