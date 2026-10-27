@@ -12,7 +12,6 @@
 - 🛠️ **Proyectos Personales:**
   - <a href="https://totalgrind.es" target="_blank"><b>Total Grind</b></a>: Plataforma web para la planificación de bloques de entrenamiento de Powerlifting.
   - **App de Finanzas Personales**: Herramienta a medida para la gestión de presupuesto y control financiero.
-  - **IDE Online Mobile-First**: Entorno de desarrollo ligero diseñado para programar cómodamente desde dispositivos móviles.
   - *Entre otros proyectos e ideas en constante desarrollo.*
 - 🎯 **Enfoque:** Arquitectura Full Stack, interfaces optimizadas, movilidad y automatización de procesos.
 - 🏋️ **Dato curioso:** Compito en Powerlifting, lo que me llevó a desarrollar mi propia herramienta para optimizar la programación de cargas.
