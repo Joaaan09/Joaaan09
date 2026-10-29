@@ -10,7 +10,7 @@
 
 - 💼 **Actualmente:** Desarrollador en **FlowProp**, creando soluciones web, software y automatizaciones.
 - 🛠️ **Proyectos Personales:**
-  - <a href="https://totalgrind.es" target="_blank"><b>Total Grind</b></a>: Plataforma web para la planificación de bloques de entrenamiento de Powerlifting.
+  - <a href="https://totalgrind.es" target="_blank"><b>Total Grind</b></a>: SaaS para la planificación de bloques de entrenamiento de Powerlifting.
   - **App de Finanzas Personales (Kobo)**: Herramienta a medida para la gestión de presupuesto y control financiero.
   - *Entre otros proyectos e ideas en constante desarrollo.*
 - 🎯 **Enfoque:** Arquitectura Full Stack, interfaces optimizadas, movilidad y automatización de procesos.
